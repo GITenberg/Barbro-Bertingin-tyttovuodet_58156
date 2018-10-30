@@ -1,0 +1,26 @@
+_repo: Barbro-Bertingin-tyttovuodet_58156
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Seppänen, Rob. A.
+    alias: Seppanen, Rob. A.
+    gutenberg_agent_id: '43205'
+    url: http://www.gutenberg.org/2009/agents/43205
+creator:
+  author:
+    agent_name: Kuylenstierna-Wenster, Elisabeth
+    gutenberg_agent_id: '49796'
+    url: http://www.gutenberg.org/2009/agents/49796
+description: ''
+gutenberg_issued: '2018-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58156'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Barbro Bertingin tyttövuodet
+url: http://www.gutenberg.org/ebooks/58156
