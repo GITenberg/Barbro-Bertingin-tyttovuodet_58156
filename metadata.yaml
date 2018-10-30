@@ -6,12 +6,17 @@ contributor:
     alias: Seppanen, Rob. A.
     gutenberg_agent_id: '43205'
     url: http://www.gutenberg.org/2009/agents/43205
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kuylenstierna-Wenster, Elisabeth
     gutenberg_agent_id: '49796'
     url: http://www.gutenberg.org/2009/agents/49796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58156#Barbro-Bertingin-tyttovuodet
 gutenberg_issued: '2018-10-24'
 gutenberg_type: Text
 identifiers:
